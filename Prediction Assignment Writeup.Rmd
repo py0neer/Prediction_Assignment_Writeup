@@ -1,10 +1,10 @@
 ---
 title: "Prediction Assignment Writeup"
 author: "Mathias Stein"
-date: "6 2 2018"
+date: "June 21st 2018"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
